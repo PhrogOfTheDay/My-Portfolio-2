@@ -1,9 +1,9 @@
 locale: "en-US"
 title: "Your Name"
 description: "Software Engineer and Researcher"
-url: "https://yourname.github.io"
-baseurl: ""
-repository: "yourname/yourname.github.io"
+url: "https://phrogoftheday.github.io"
+baseurl: "/My-Portfolio-2"
+repository: "PhrogOfTheDay/My-Portfolio-2"
 timezone: "Europe/Rome"
 logo: "/images/profile.svg"
 
